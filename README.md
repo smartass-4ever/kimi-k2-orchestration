@@ -382,11 +382,9 @@ Expected metrics:
 4. **Real-Time Dashboards**: Visualize swarm health and interventions
 5. **Agent Specialization**: Fine-tuned models per specialty (code, browser, etc.)
 
-## 📄 License
 
-MIT License - See LICENSE file
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Inspired by human organizational hierarchies
 - PAD model adapted from psychology research (Russell, 1980)
@@ -396,4 +394,4 @@ MIT License - See LICENSE file
 
 **Status**: Proof of Concept  
 **Target**: Kimi K2.5 100-Agent Swarms  
-**Maintainer**: [Your Name/Handle]
+**Maintainer**: Mahika Jadhav
